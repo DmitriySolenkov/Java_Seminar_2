@@ -15,7 +15,7 @@ public class Ex4 {
     }
 
     public static void fileWrite(String str) throws Exception {
-        FileWriter fw = new FileWriter("file.txt");
+        FileWriter fw = new FileWriter("Ex4file.txt");
         fw.write(str);
         fw.close();
     }

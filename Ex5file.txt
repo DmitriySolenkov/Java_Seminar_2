@@ -1,0 +1,9 @@
+.git
+Ex1.java
+Ex2.java
+Ex3.java
+Ex4.java
+Ex4file.txt
+Ex5.java
+Ex5file.txt
+Ex5log.txt
