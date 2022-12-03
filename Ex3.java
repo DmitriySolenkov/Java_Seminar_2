@@ -4,7 +4,7 @@ public class Ex3 {
 
     }
 
-    public static Boolean isPalindrome(String str) {
+    public static boolean isPalindrome(String str) {
         char[] charAr = str.toCharArray();
         int len = 0;
         if (charAr.length % 2 == 0) {
